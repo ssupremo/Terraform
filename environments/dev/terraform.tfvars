@@ -6,7 +6,7 @@ postgresql_server_name     = "lhb-postgresql"
 postgresql_admin_username  = "azureadmin"
 
 tags = {
-  생성자       = "이현빈"
+  생성자       = "LHB"
 }
 
 address_space = ["10.0.0.0/16"]
